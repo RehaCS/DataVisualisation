@@ -1,5 +1,5 @@
-void id5(){
-  
+void id5() {
+
   background(255);
   for (int row = 0; row < 9; row++) {
     float crimeCount = ealing.getFloat(row, "crimeCount");
@@ -36,10 +36,20 @@ void id5(){
     textAlign(LEFT);
     text(count, width/2 - 95, 90+row*50);
   }
-  
+
   textAlign(CENTER);
   text("Press the SPACEBAR to return to the map!", width/2, height-50);
   textSize(24);
   fill(0);
-  text("Ealing", width/2,50);
+  text("Ealing", width/2, 50);    
+  int x = 75;  
+  int y = height/2;      
+  pushMatrix();   
+  translate(x, y);   
+  rotate(4.71239);   
+  translate(-x, -y);   
+  textSize(20);   
+  textFont(font);   
+  text("Major Crime Categories", x, y);   
+  popMatrix();
 }

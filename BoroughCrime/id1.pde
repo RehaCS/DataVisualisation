@@ -41,5 +41,18 @@ void id1() {
   text("Press the SPACEBAR to return to the map!", width/2, height-50);
   textSize(24);
   fill(0);
-  text("Kingston Upon Thames", width/2,50);
+  text("Kingston Upon Thames", width/2,50);  
+  
+  int x = 75;   
+  int y = height/2;
+  
+  pushMatrix();
+  translate(x,y);
+  rotate(4.71239);
+  translate(-x,-y);
+  textSize(20);
+  textFont(font);
+  text("Major Crime Categories", x,y);
+  popMatrix();
+  
 }

@@ -2,7 +2,7 @@ import org.gicentre.geomap.*;    // Needed for loading and displaying vector map
 import org.gicentre.utils.move.*; //Needed for ZoomPan
 
 GeoMap geoMap;
-PFont headingFont;
+PFont headingFont, font;
 Table crimeSummary, kingstonUponThames, croydon, bromley,hounslow, ealing, 
 havering, hillingdon, harrow, brent, barnet , lambeth, southwark, lewisham, greenwich, 
 bexley, enfield, waltham, redbridge, sutton, richmondUponThames, merton, wandsworth, 
@@ -59,6 +59,7 @@ void setup() {
 
   
   //text properties
+  font = createFont("ArialNarrow-Bold", 28);
   headingFont = createFont("crol-BoldMT", 28);
   textAlign(CENTER);
 

@@ -1,4 +1,4 @@
-void id33(){
+void id33() {
   background(255);
   textSize(30);
   text("No Data Available", width/2, height/2);
