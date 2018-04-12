@@ -32,7 +32,9 @@ void id27(){
     textAlign(RIGHT);
     textSize(13);
     text(majCat, width/2 -110, 87+row*50);
-
+    int count = (int) crimeCount;
+    textAlign(LEFT);
+    text(count, width/2 - 95, 90+row*50);
   }
   
   textAlign(CENTER);
