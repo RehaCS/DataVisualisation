@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,256,Waltham Forest
+2,Criminal Damage,158,Waltham Forest
+3,Drugs,60,Waltham Forest
+4,Fraud & Forgery,3,Waltham Forest
+5,Other Notifiable Offences,20,Waltham Forest
+6,Robbery,52,Waltham Forest
+7,Sexual Offences,41,Waltham Forest
+8,Theft & Handling,672,Waltham Forest
+9,Violence Against The Person,538,Waltham Forest

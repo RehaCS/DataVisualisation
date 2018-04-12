@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,109,Sutton
+2,Criminal Damage,111,Sutton
+3,Drugs,32,Sutton
+4,Fraud & Forgery,0,Bexley
+5,Other Notifiable Offences,13,Sutton
+6,Robbery,14,Sutton
+7,Sexual Offences,23,Sutton
+8,Theft & Handling,302,Sutton
+9,Violence Against The Person,329,Sutton

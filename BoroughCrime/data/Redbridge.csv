@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,304,Redbridge
+2,Criminal Damage,150,Redbridge
+3,Drugs,64,Redbridge
+4,Fraud & Forgery,2,Redbridge
+5,Other Notifiable Offences,33,Redbridge
+6,Robbery,47,Redbridge
+7,Sexual Offences,39,Redbridge
+8,Theft & Handling,639,Redbridge
+9,Violence Against The Person,475,Redbridge

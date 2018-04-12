@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,169,Newham
+2,Criminal Damage,195,Newham
+3,Drugs,134,Newham
+4,Fraud & Forgery,5,Newham
+5,Other Notifiable Offences,45,Newham
+6,Robbery,126,Newham
+7,Sexual Offences,45,Newham
+8,Theft & Handling,1110,Newham
+9,Violence Against The Person,750,Newham

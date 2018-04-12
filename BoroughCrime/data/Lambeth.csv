@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,265,Lambeth
+2,Criminal Damage,227,Lambeth
+3,Drugs,152,Lambeth
+4,Fraud & Forgery,6,Lambeth
+5,Other Notifiable Offences,47,Lambeth
+6,Robbery,121,Lambeth
+7,Sexual Offences,76,Lambeth
+8,Theft & Handling,1079,Lambeth
+9,Violence Against The Person,804,Lambeth

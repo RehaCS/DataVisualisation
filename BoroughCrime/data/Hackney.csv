@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,245,Hackney
+2,Criminal Damage,141,Hackney
+3,Drugs,76,Hackney
+4,Fraud & Forgery,3,Hackney
+5,Other Notifiable Offences,44,Hackney
+6,Robbery,121,Hackney
+7,Sexual Offences,56,Hackney
+8,Theft & Handling,983,Hackney
+9,Violence Against The Person,692,Hackney
