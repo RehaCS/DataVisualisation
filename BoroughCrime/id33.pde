@@ -3,5 +3,5 @@ void id33(){
   textSize(30);
   text("No Data Available", width/2, height/2);
   textSize(13);
-  text("Press 'b' to go back!", width/2, height-50);
+  text("Press the SPACEBAR to return to the map!", width/2, height-50);
 }

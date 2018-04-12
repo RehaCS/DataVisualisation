@@ -216,7 +216,7 @@ void mouseClicked() {
 }
 
 void keyPressed() {
-  if (key == 'b' || key == 'B') {
+  if (key == 'b' || key == 'B' || key == ' ') {
     pageNum = 0;
   }
 }

@@ -38,7 +38,7 @@ void id11(){
   }
   
   textAlign(CENTER);
-  text("Press 'b' to go back!", width/2, height-50);
+  text("Press the SPACEBAR to return to the map!", width/2, height-50);
   textSize(24);
   fill(0);
   text("Lambeth", width/2,50);
