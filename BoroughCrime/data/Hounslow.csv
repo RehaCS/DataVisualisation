@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,220,Hounslow
+2,Criminal Damage,144,Hounslow
+3,Drugs,89,Hounslow
+4,Fraud & Forgery,10,Hounslow
+5,Other Notifiable Offences,33,Hounslow
+6,Robbery,37,Hounslow
+7,Sexual Offences,42,Hounslow
+8,Theft & Handling,691,Hounslow
+9,Violence Against The Person,584,Hounslow

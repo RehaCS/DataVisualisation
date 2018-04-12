@@ -1,0 +1,19 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,131,"Kingston upon Thames"
+2,Criminal Damage,80,"Kingston upon Thames"
+3,Drugs,39,"Kingston upon Thames"
+4,Fraud & Forgery,2,"Kingston upon Thames"
+5,Other Notifiable Offences,14,"Kingston upon Thames"
+6,Robbery,8,"Kingston upon Thames"
+7,Sexual Offences,19,"Kingston upon Thames"
+8,Theft & Handling,298,"Kingston upon Thames"
+9,Violence Against The Person,298,"Kingston upon Thames"
+10,Burglary,229,Croydon
+11,Criminal Damage,260,Croydon
+12,Drugs,151,Croydon
+13,Fraud & Forgery,5,Croydon
+14,Other Notifiable Offences,57,Croydon
+15,Robbery,133,Croydon
+16,Sexual Offences,47,Croydon
+17,Theft & Handling,780,Croydon
+18,Violence Against The Person,864,Croydon

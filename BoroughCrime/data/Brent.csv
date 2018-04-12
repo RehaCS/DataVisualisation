@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,254,Brent
+2,Criminal Damage,161,Brent
+3,Drugs,160,Brent
+4,Fraud & Forgery,3,Brent
+5,Other Notifiable Offences,41,Brent
+6,Robbery,64,Brent
+7,Sexual Offences,46,Brent
+8,Theft & Handling,746,Brent
+9,Violence Against The Person,727,Brent

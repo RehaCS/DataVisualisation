@@ -1,0 +1,34 @@
+id,borough,crimeCount
+32,Barking and Dagenham,1374
+10,Barnet,2061
+15,Bexley,1086
+9,Brent,2202
+3,Bromley,1725
+26,Camden,2455
+33,City of London,0
+2,Croydon,2526
+5,Ealing,2093
+16,Enfield,1799
+14,Greenwich,2087
+29,Hackney,2361
+23,Hammersmith and Fulham,1711
+30,Haringey,2234
+8,Harrow,1041
+6,Havering,1518
+7,Hillingdon,1883
+4,Hounslow,1850
+28,Islington,2291
+24,Kensington and Chelsea,1522
+1,Kingston upon Thames,889
+11,Lambeth,2777
+13,Lewisham,1845
+21,Merton,1051
+31,Newham,2579
+18,Redbridge,1753
+20,Richmond upon Thames,918
+12,Southwark,2700
+19,Sutton,933
+27,Tower Hamlets,2353
+17,Waltham Forest,1800
+22,Wandsworth,1830
+25,Westminster,4192

@@ -1,0 +1,10 @@
+cid,majorCategory,crimeCount,borough
+1,Burglary,237,Ealing
+2,Criminal Damage,160,Ealing
+3,Drugs,101,Ealing
+4,Fraud & Forgery,4,Ealing
+5,Other Notifiable Offences,41,Ealing
+6,Robbery,43,Ealing
+7,Sexual Offences,49,Ealing
+8,Theft & Handling,796,Ealing
+9,Violence Against The Person,662,Ealing
